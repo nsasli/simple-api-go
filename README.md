@@ -14,5 +14,5 @@ Simple User Management API (API Pengelolaan User Sederhana) #NitaSharing
 
 <img width="637" alt="image" src="https://github.com/nsasli/simple-api-go/assets/47415483/aaff20fb-7852-4806-af59-d3c1d9e493d8">
 
-Proyek ini adalah contoh sederhana bagaimana membuat API HTTP dengan Go. 
+Project ini adalah contoh sederhana bagaimana membuat API HTTP dengan Go. 
 Semoga bermanfaat :) 
