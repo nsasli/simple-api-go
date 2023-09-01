@@ -1,7 +1,11 @@
 # simple-api-go
 Simple User Management API (API Pengelolaan User Sederhana) #NitaSharing
 
-Aplikasi ini akan berjalan di http://localhost:8080. kamu bisa akses endpoint seperti http://localhost:8080/users untuk mendapatkan daftar pengguna atau http://localhost:8080/users/{id} untuk mendapatkan detail pengguna berdasarkan ID.
+=> go mod init main.go
+=> go get github.com/gorilla/mux
+=> go run main.go
+
+*** Aplikasi ini akan berjalan di http://localhost:8080. kamu bisa akses endpoint seperti http://localhost:8080/users untuk mendapatkan daftar pengguna atau http://localhost:8080/users/{id} untuk mendapatkan detail pengguna berdasarkan ID.
 
 <img width="416" alt="image" src="https://github.com/nsasli/simple-api-go/assets/47415483/c44fb589-3e3f-4718-87d8-3f09c45dddad">
 
